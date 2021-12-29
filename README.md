@@ -2,7 +2,7 @@
 I'm Fateme , a Front End developer . I started learning JS at late 2020 when I had no Idea how big JS world is. I watched several courses and get bored so if I'm supposed to get bored while watching course why not reading document and article?so after all I decided get along with reading docs these days. 
 - I also love reading old books , mangas , listening to KPOP and JPOP and watching Anime . I use these topics to my practices which you might find out after take a look at my repositories.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Fatte GitHub stats](https://github-readme-stats.vercel.app/api?username=fatemeKholousi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fatemeKholousi/fatemeKholousi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
