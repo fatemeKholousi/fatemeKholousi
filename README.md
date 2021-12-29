@@ -1,20 +1,17 @@
-### Hi EveryOne 👋
-I'm Fateme , a Front End developer . I started learning JS at late 2020 when I had no Idea how big JS world is. I watched several courses and get bored so if I'm supposed to get bored while watching course why not reading document and article?so after all I decided get along with reading docs these days. 
-- I also love reading old books , mangas , listening to KPOP and JPOP and watching Anime . I use these topics to my practices which you might find out after take a look at my repositories.
+### Hi there 👋, my name is Fateme
+#### I'm  a Front End developer
+![I'm  a Front End developer](https://s20.picofile.com/file/8445572268/85269.jpg)
 
-[![Fatte GitHub stats](https://github-readme-stats.vercel.app/api?username=fatemeKholousi)](https://github.com/anuraghazra/github-readme-stats)
+ I started learning JS at late 2020 when I had no Idea how big JS world is. I watched several courses and get bored so if I'm supposed to get bored while watching course why not reading document and article? after all I decided get along with reading docs these days.
 
-<!--
-**fatemeKholousi/fatemeKholousi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: I like KPOP , Anime and L.M.M so some of my repositories are about these topics 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fatemeKholousi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fateme-kholousi-5234791aa/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeKholousi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fatemeKholousi)  
+
