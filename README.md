@@ -2,7 +2,7 @@
 #### I'm  a Front End developer
 ![I'm  a Front End developer](https://s20.picofile.com/file/8445572268/85269.jpg)
 
- I started learning JS at late 2020 when I had no Idea how big JS world is. I watched several courses and get bored so if I'm supposed to get bored while watching course why not reading document and article? after all I decided get along with reading docs these days.
+ I started learning JS at late 2020 when I had no Idea how big JS world is. these days I just practice js more deep than before.
 
 Skills: REACT / JS / HTML / CSS
 
