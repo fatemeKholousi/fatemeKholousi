@@ -4,7 +4,7 @@
 
  I started learning JS at late 2020 when I had no Idea how big JS world is. these days I just practice js more deep than before.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / Node.js / HTML / CSS
 
 - ⚡ Fun fact: I like KPOP , Anime and L.M.M so some of my repositories are about these topics 
 
