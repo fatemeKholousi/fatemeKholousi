@@ -1,12 +1,13 @@
 ### Hi there 👋, my name is Fateme
-#### I'm  a Front End developer
-![I'm  a Front End developer]
+#### I'm  a Front End Developer
 
- I started learning JS at late 2020 when I had no Idea how big JS world is. these days I just practice js more deep than before.
+
+ I started learning JS at late 2020 when I had no Idea how big JS world is.
+ Recently I figured out "JS is my Ninja way"! (as Naruto said) so I believe in teamwork and not giving up.
 
 Skills: REACT / JS / Node.js / HTML / CSS
 
-- ⚡ Fun fact: I like KPOP , Anime and L.M.M so some of my repositories are about these topics 
+
 
 
 
