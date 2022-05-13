@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Fateme
 #### I'm  a Front End developer
-![I'm  a Front End developer](https://s20.picofile.com/file/8445572268/85269.jpg)
+![I'm  a Front End developer]
 
  I started learning JS at late 2020 when I had no Idea how big JS world is. these days I just practice js more deep than before.
 
