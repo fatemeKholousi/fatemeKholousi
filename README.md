@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Fateme
-#### I'm  a Front End Developer
+### Hi there 👋, my name is Fateme, you can call me Fatte-master on SNS
+#### I'm  a Front-End Developer
 
 
  I started learning JS at late 2020 when I had no Idea how big JS world is.
