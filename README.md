@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Fateme, you can call me Fatte-master on SNS
-#### currently I am a junior Fron-End developer
+#### currently I am a junior Front-End developer
 
 
  I started learning JS at late 2020 when I had no Idea how big JS world is.
