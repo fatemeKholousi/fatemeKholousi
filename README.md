@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Fateme, you can call me Fatte-master on SNS
-#### I'm  a Front-End Developer
+#### currently I am a junior Fron-End developer
 
 
  I started learning JS at late 2020 when I had no Idea how big JS world is.
  Recently I figured out "JS is my Ninja way"! (as Naruto said) so I believe in teamwork and not giving up.
 
-Skills: REACT / JS / Node.js / HTML / CSS
+Skills: JS / HTML / CSS / TS(although I'm not a fan!)
 
 
 
