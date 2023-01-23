@@ -9,24 +9,18 @@ Some Of My Skills: JS / HTML / CSS / TS / React / Express / NEXT
 <p>FrontEnd Developer at <a href="https://www.thoughtworks.com">FlyToday</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Instagram: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://instagram.com/JaneImppossible)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/fateme-kholousi-5234791aa/)
+[![Linkedin: Fateme Kholousi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/fateme-kholousi-5234791aa/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const Fatte = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  slogan:"JS is my ninja way!"
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React,Next, Redux, Node, Tailwind, ReactHookForm, Jest, Formik],
+  challenge: "I am developing my old projects"
 }
 ```
 
