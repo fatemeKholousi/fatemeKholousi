@@ -17,8 +17,8 @@ const Fatte = {
   slogan:"JS is my ninja way!",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React,Next, Redux, Node, Tailwind, ReactHookForm, Jest, Formik],
-  challenge: "I am developing my old projects"
-}
+  challenge: "I am developing my old projects",
+  }
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
