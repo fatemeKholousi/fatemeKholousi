@@ -9,9 +9,6 @@ Some Of My Skills: JS / HTML / CSS / TS / React / Express / NEXT
 <p>FrontEnd Developer at <a href="https://www.thoughtworks.com">FlyToday</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Fateme Kholousi](https://img.shields.io/badge/-Fateme Kholousi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/fateme-kholousi-5234791aa/)
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
