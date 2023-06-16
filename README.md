@@ -14,7 +14,7 @@ const Fatte = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>
- I have have self lead skills and teamwork skills. so you can count on me.
+ I have self lead skills and teamwork skills. so you can count on me.
 </em>
 
 ---
