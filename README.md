@@ -1,5 +1,5 @@
 <h2> Hi There, I'm  a JS developer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-###<img align='right' src="https://raw.githubusercontent.com/fatemeKholousi/book-store/master/src/images/OIG%20(5).jpeg" width="230">
+```<img align='right' src="https://raw.githubusercontent.com/fatemeKholousi/book-store/master/src/images/OIG%20(5).jpeg" width="230">```
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Read This Object, And Get To Know Me As A Bounus!
@@ -20,6 +20,3 @@ const Fatte = {
   ]
   }
 ```
-
-
----
