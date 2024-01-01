@@ -11,13 +11,15 @@ const Fatte = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React.JS ,Next.JS ,Redux.JS, Node.JS, Tailwind, React-hook-form,...ALL_REQUIRED_LIBRARIES],,
   hobbies: ["Voice-Acting", Sculpturing],
-  softSkills:[adapteble, growth-mindset, eager-learner],
-  mbti:"ENFP"
+  softSkills:[adapteble, growth-mindset, eager-learner,all-rounder],
+  mbti:"ENFP",
+  my2024goal:[
+    "Implemenet real life B2B panels from scratch",
+    "Create my own business website",
+    "Improve my work personality",
+  ]
   }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>
- I am an all-rounder problem solver. 
-</em>
 
 ---
