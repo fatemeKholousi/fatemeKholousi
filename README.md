@@ -9,7 +9,8 @@ const Fatte = {
   pronouns: "she" | "her",
   slogan:"JS is my ninja way!",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React.JS ,Next.JS ,Redux.JS, Node.JS, Tailwind, React-Hook-Form, Jest, Formik],
+  tools: [React.JS ,Next.JS ,Redux.JS, Node.JS, Tailwind, React-hook-Form],
+  Hobby: [Voice Acting, Sculpturing]
   }
 ```
 
