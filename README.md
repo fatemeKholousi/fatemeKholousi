@@ -17,6 +17,7 @@ const Fatte = {
     "Implemenet real life B2B panels from scratch",
     "Create my own business website",
     "Improve my work personality",
+    "Learning Pwa"
   ]
   }
 ```
